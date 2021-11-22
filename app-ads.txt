@@ -4,6 +4,9 @@ google.com, pub-5149411844412358, DIRECT, f08c47fec0942fa0
 A4G
 google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
 
+TIKTOK
+pangleglobal.com, 5001074,DIRECT
+
 REKLAMUP
 google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1972, RESELLER
