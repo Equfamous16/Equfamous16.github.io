@@ -1,9 +1,6 @@
 ADMOB
 google.com, pub-5149411844412358, DIRECT, f08c47fec0942fa0
 
-A4G
-google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
-
 TIKTOK
 pangleglobal.com, 5001074,DIRECT
 
@@ -23,9 +20,6 @@ appnexus.com, 13099, RESELLER
 yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4111, RESELLER
-
-FACEBOOK
-facebook.com, 669189850521393, DIRECT, c3e20eee3f780d68
 
 UNITY
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
